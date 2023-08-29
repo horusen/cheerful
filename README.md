@@ -16,10 +16,12 @@
 
 ## :book: Reference
 - **Software Requirement Specifications**: <a href="https://docs.google.com/document/d/1jPz97ecTsStaxazhorpz8mcOdpM8mqu8y-gmIpdYLY0/edit?usp=sharing">here</a>
+- **Developer guide**: <a href="https://docs.google.com/document/d/17V1EWfg0XJk4XzRKIsY1O0DX2S7KJo9_R-mp1cBxTW0/edit?usp=sharing">here</a>
 - **User Flow**: <a href="https://www.figma.com/file/S3nzALmaiacqMh3J7e2pUg/Cheerful-user-flow?type=whiteboard&node-id=0%3A1&t=xGdWmVaZU2r395C4-1">here</a>
 - **Database Modeling**: <a href="https://dbdiagram.io/d/64bfbd7602bd1c4a5ea98a93">here</a>
 - **Software Architechture**: <a href="https://www.figma.com/file/T4YQrtoooL6g8lukT6fVM4/Cheerful-Software-architechture?type=whiteboard&node-id=0%3A1&t=lbWeIsBM1OH05uLa-1">here</a>
 - **Brand Guideline**: <a href="https://www.figma.com/file/T4YQrtoooL6g8lukT6fVM4/Cheerful-Software-architechture?type=whiteboard&node-id=0%3A1&t=lbWeIsBM1OH05uLa-1">here</a>
+- **API Documentation**: <a href="https://documenter.getpostman.com/view/6793631/2s9Y5ZwNW2">here</a>
 
 ## :rocket: Tech Stack
 
@@ -53,6 +55,15 @@
 
 ## :zap: Getting Started
 
+### :bookmark_tabs: Prerequisite
+Before you begin, ensure you have the following software installed:
+- Node.js (v14 or higher)
+- npm (Node Package Manager)
+- Git
+- MySQL Database Server
+- Redis Server
+
+And then:
 1. Clone this repository.
 2. Install dependencies with `npm install`.
 3. Set up environment variables for database, Redis, Amazon S3, and JWT secret.
