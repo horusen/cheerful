@@ -1,6 +1,6 @@
 [submodule "client"]
 	path = client
-	url = ./client
+	url = https://github.com/horusen/cheerful-client.git
 [submodule "server"]
 	path = server
-	url = ./server
+	url = https://github.com/horusen/cheerful-server.git
